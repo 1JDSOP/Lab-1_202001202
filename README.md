@@ -1,10 +1,10 @@
-# <pre>                  IT 314 - Software Engineering </pre> 
+# <pre>               IT 314 - Software Engineering </pre> 
 ### Lab 1 : Identify Functional and Non-Functional Requirements
 #### Date : 02 - 02 - 2023
 #### Name : Jaimin Satani
 #### ID : 202001202
 
-## **<pre>                              Library Information System </pre>**
+## **<pre>                      Library Information System </pre>**
 
 ### **Functional Requirements:**
 * User should be the member of LIS, At time of issuing or returning book system should varify it.
@@ -31,7 +31,7 @@
 * Maintanance hours and system high request time(eg., Working hours, Lunch Time) should not have clashes.
 * System should varify user data like email id, mobile number by OTP.
 
-## **<pre>              Key sound recognization with AI using Mobile Application </pre>**
+## **<pre>          Key sound recognization with AI using Mobile Application </pre>**
 
 ### **Scope:**
 * Android application should be developed to help people who are suffering from disabling hearing loss.
