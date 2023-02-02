@@ -3,5 +3,4 @@
 #### Student Name : Jaimin Satani
 #### Student ID: 202001202
 
-1. Functional Requirements:
-  --> 
+### <pre>                  Library Information System </pre>
