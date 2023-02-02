@@ -6,10 +6,11 @@
 ### **<pre>                  Library Information System </pre>**
 
 **Functional Requirements:**
-*      User should be the member of LIS, At time of issuing or returning book system should varify it.
-*      System should have Administrative privileges to some othorized persons like Librarian.
-*      System should have functionalities like borrow or return book with ease, request to extend deadline of borrowing.
-*      System should follow constraints like if booking of perticular book is done already then user should not be able to entend borrowing deadline.
+* User should be the member of LIS, At time of issuing or returning book system should varify it.
+* System should have Administrative privileges to some othorized persons like Librarian.
+* System should have functionalities like borrow or return book with ease, request to extend deadline of borrowing.
+* System should follow constraints like if booking of perticular book is done already then user should not be able to entend borrowing deadline.
+
 **Functional Requirements:**   
 * Authentication of users at the time of issuing or returning of a book to verify if he is a member of LIS.  
 * Provide Administrative Privileges to Librarian to have complete control over the system for changing the records in the system  
