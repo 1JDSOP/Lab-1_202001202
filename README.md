@@ -5,7 +5,7 @@
 
 ### <pre>                  Library Information System </pre>
 
-** 1) Functional Requirements **
+**1) Functional Requirements **
       1. User should be the member of LIS, At time of issuing or returning book system should varify it.
       2. System should have Administrative privileges to some othorized persons like Librarian.
       3. System should have functionalities like borrow or return book with ease, request to extend deadline of borrowing.
