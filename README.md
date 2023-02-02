@@ -47,4 +47,9 @@
 * Notify friends and family in case when no response from the user when a critical situation is detected.
 
 ### **Non-Functional Aspects:**
+* The App should alert the user through some vibrations.
+* Response time of App should be less then 100 ms.
+* The users should be able to add additional sounds in app, which user want app to detect.
+* App should have functionalities like live location of user that can be sent by app to friends or family members in emergency.
+* App should suggest safe routs for user.
 
